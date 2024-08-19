@@ -1,3 +1,7 @@
 # Web_Work
 Webs as a beginner developer
-![wallpapersden com_fantasy-dragon-hd-warrior_3840x1886](https://github.com/LuckyMo-it/Web_Work/assets/157598261/1c1f3378-5671-49e4-87fa-d8a110e96a58)
+1.Open with Codespaces or with Any IDE in your local computer
+
+2.Go to Logis/Logis
+
+3.Run index.htmlfile
